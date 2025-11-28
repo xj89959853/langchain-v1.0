@@ -1,0 +1,22 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.15.0",
+  "dependencies": {
+    "@langchain/core": "^0.3.75",
+    "@langchain/openai": "^0.6.11",
+    "dotenv": "^17.2.2",
+    "langchain": "^0.3.33",
+    "readline-sync": "^1.4.10",
+    "zod": "^4.1.5"
+  }
+}
